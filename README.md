@@ -55,5 +55,10 @@ Our platform then enables you to communicate with the NFT/ENS owner through the 
 In addition to our web-application, we have also created an `NFT smart contract` that incorporates the `opt-in` and `opt-out` functionality through the `PUSH communicator` contract. This allows NFT projects to directly integrate these functions into their own platform by connecting through their own NFT contract. 
 
 
+## Channel Address
 
+- 0x9147BDf9aaca01B5f2680633e254a9776ecB10e5
 
+## Deployed Transaction
+
+- https://hyperspace.filfox.info/en/tx/0x33046235c834738ee7be655bfb9629c72401d5ae7a5b12d5569067b528932d34
