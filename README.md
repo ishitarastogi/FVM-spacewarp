@@ -54,6 +54,18 @@ Our platform then enables you to communicate with the NFT/ENS owner through the 
 
 In addition to our web-application, we have also created an `NFT smart contract` that incorporates the `opt-in` and `opt-out` functionality through the `PUSH communicator` contract. This allows NFT projects to directly integrate these functions into their own platform by connecting through their own NFT contract. 
 
+## Screenshots
+
+### - Search your favourite NFTs and connect with the owner via Push chat and Huddle01
+1. Opensea URL
+<img width="1423" alt="Screenshot 2023-02-06 at 9 46 52 PM" src="https://user-images.githubusercontent.com/46647968/217025399-63d00c25-45ff-4ffc-ac1a-68dc691bf9bf.png">
+2. Contract address and token ID 
+
+3.ENS Name
+<img width="1380" alt="Screenshot 2023-02-06 at 9 50 57 PM" src="https://user-images.githubusercontent.com/46647968/217026298-96ec1c84-17e9-4206-b5f1-86dfa95ba7a5.png">
+
+### NFT owner will get notification when someone view their NFTs
+<img width="1130" alt="Screenshot 2023-02-06 at 9 52 33 PM" src="https://user-images.githubusercontent.com/46647968/217026709-3b50407f-3de5-420f-8e32-f1b254be9cca.png">
 
 ## Channel Address
 
