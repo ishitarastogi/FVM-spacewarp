@@ -44,15 +44,15 @@ The repository holds the source code for our web-app and NFT contract.
 
 ## User Flow
 
-Our platform is designed for NFT holders, collectors, and ENS holders who can opt-in/subscribe to our push channel through our website or the push website. 
-Once a user has opted-in, they will be eligible to receive notifications. 
+Our platform is designed for NFT holders, collectors, and ENS holders who can opt-in/subscribe to our `push channel` through our website or the push website. 
+Once a user has `opted-in`, they will be eligible to receive notifications. 
 
-As an NFT explorer/user, you can find a desired NFT or ENS on our platform through Opensea Link, ENS domain, NFT address and NFT ID. 
-The ENS/NFT admin will receive a notification of interest from someone in their NFT. 
+As an NFT explorer/user, you can find a desired NFT or ENS on our platform through `Opensea Link`, `ENS domain`, `NFT address` and `NFT ID`. 
+The ENS/NFT admin will receive a notification(`push notification`) of interest from someone in their NFT. 
 
-Our platform then enables you to communicate with the NFT/ENS owner through the Push chat and express your interest in buying the NFT, you can also negotiate with them. User can connect with them via video call, powered by Huddle01. 
+Our platform then enables you to communicate with the NFT/ENS owner through the `Push chat` and express your interest in buying the NFT, you can also negotiate with them. User can connect with them via video call, powered by `Huddle01`. 
 
-In addition to our web-application, we have also created an NFT smart contract that incorporates the opt-in and opt-out functionality through the PUSH communicator contract. This allows NFT projects to directly integrate these functions into their own platform by connecting through their own NFT contract. 
+In addition to our web-application, we have also created an `NFT smart contract` that incorporates the `opt-in` and `opt-out` functionality through the `PUSH communicator` contract. This allows NFT projects to directly integrate these functions into their own platform by connecting through their own NFT contract. 
 
 
 
