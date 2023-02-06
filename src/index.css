@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  background-image: url("./images/one.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+}
+.gradient-yellow-pink-orange {
+  background-image: linear-gradient(to bottom, #8e2de2, #e60073, #ffc0cb);
+}
+
+/* @media (max-width: 576px) {
+  .hero {
+    background-image: url('../images/mobile/image-hero.jpg');
+    background-position: center;
+  }
+} */
